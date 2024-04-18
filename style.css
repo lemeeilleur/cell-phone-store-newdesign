@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    background-color: #EDEDED;
+    font-size: 24px;
+}
+
+header {
+    background-color: #404040;
+    padding: 15px 20px 20px 20px;
+}
+
+.logo {
+    float: left;
+    vertical-align: middle;
+    margin: 20px 10px 20px 20px;
+}
+
+header h1 {
+    font-size: 50px;
+    margin: 40px auto 25px 10px;
+    color: white;
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main img {
+    display: block;
+    margin: 20px auto 0px auto;
+}
+
+h2 {
+    color: black;
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    padding: 5px 30px 5px 30px;
+    background-color: #e2e2e2;
+    border-radius: 15px;
+}
+
+nav {
+    margin: 55px 15px 20px 15px;
+    text-align: center;
+    font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+nav .nav-link {
+    text-decoration: none;
+    color: white;
+    background-color: #BF000C;
+    padding: 15px 20px 15px 20px;
+    border-radius: 15px;
+    margin: 20px 15px 20px 15px;
+}
+
+nav .nav-link:hover {
+    font-size: 26px;
+    transition: 0.5s ease-out;
+    background-color: #d1000e;
+    padding: 17px 22px 17px 22px;
+    border-radius: 17px;
+    margin: 22px 17px 22px 17px;
+}
+
+footer {
+    background-color: #404040;
+    padding: 15px 20px 20px 20px
+}
+
+footer h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 40px auto 25px 10px;
+    color: white;
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer img {
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+footer img:hover {
+    transition: 0.5s ease-out;
+    height: 100px;
+    width: 100px;
+    padding: 12px;
+}
+
+.socialnetwork {
+    text-align: center;
+}
+
+p {
+    padding: 0px 60px 0px 60px;
+    font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+ul {
+    padding: 0px 60px 0px 80px;
+    font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+hr {
+    border: 3px solid black;
+}
+
+span {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.review {
+    padding: 5px 30px 5px 30px;
+    background-color: #e2e2e2;
+    border-radius: 15px;
+    margin: 15px 60px 15px 60px;
+}
